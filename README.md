@@ -37,12 +37,6 @@ Elements
 
 
 
-Other Projects
-------
-This is a list of community projects, related to Adapta:
- - [**Adapta KDE**](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Port of this theme to KDE Plasma 5.
- - [**Discord-Adapta-Nokto**](https://github.com/Scrumplex/Discord-Adpata-Nokto) - Adapta-oriented theme for Discord
-
 Work in Progress
 ----------------
 
